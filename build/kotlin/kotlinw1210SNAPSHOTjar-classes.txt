@@ -1,0 +1,1 @@
+C:\kotlin-w12\build\classes\kotlin\main\FunctionTestKt$sum$1.class;C:\kotlin-w12\build\classes\kotlin\main\FunctionTestKt.class;C:\kotlin-w12\build\classes\kotlin\main\MainKt$main$myLambda$1.class;C:\kotlin-w12\build\classes\kotlin\main\MainKt.class
